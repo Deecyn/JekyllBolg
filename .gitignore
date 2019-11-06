@@ -3,7 +3,7 @@ _posts/_draft
 _posts/_archive
 _archive
 node_modules
-jekyll
+jekyll-remote
 .jekyll-cache
 .vscode
 *.log
