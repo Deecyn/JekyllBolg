@@ -4,10 +4,10 @@ title: "数组"
 subtitle: '关于数组及其在 Java 中的应用'
 author: "Deecyn"
 catalog: true
-header-mask: 0.3
-header-img: "img/java/linear_table.jpg"
+header-mask: 0.2
+header-img: "img/header/LongTailedBushtits.jpg"
 tags:
-  - 数据结构
+  - 数据结构与算法
   - Java
 ---
 

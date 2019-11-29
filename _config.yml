@@ -4,7 +4,7 @@ SEOTitle: Deecyn的博客 | Deecyn Blog
 header-img: img/bg/home-bg.jpg
 email: deecyns@gmail.com
 description: "关于程序与设计、黑客与画家 | Deecyn，Java, Spring，Web, Software Engineer | 这里是 @Deecyn 的个人博客，与你一起发现更大的世界。"
-keyword: "Deecyn, Deecyn的博客, Deecyn's Blog, 博客Deecyn Blog, Web, Java, Spring"
+keyword: "wangde.xin, Deecyn, Deecyn的博客, Deecyn's Blog, Deecyn Blog, Web, Java, Spring"
 url: "https://wangde.xin"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -12,10 +12,12 @@ baseurl: ""                             # for example, '/blog' if your blog host
 future: true
 
 # SNS settings
-RSS: true
-weibo_username:     Deecyn
-zhihu_username:     idawson
+# RSS: true
+#weibo_username:     Deecyn
+zhihu_username:     deecyn
 github_username:    Deecyn
+csdn_username:      Deecyn
+juejin_username:    5bc313c3e51d450e7633599e
 #twitter_username:   Deecyn
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
