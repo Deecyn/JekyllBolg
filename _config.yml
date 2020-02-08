@@ -1,9 +1,9 @@
 # Site settings
-title: Deecyn's Blog
-SEOTitle: Deecyn的博客 | Deecyn Blog
+title: Deecyn
+SEOTitle: Deecyn 的博客 | Deecyn's Blog
 header-img: img/bg/home-bg.jpg
 email: deecyns@gmail.com
-description: "关于程序与设计、黑客与画家 | Deecyn，Java, Spring，Web, Software Engineer | 这里是 @Deecyn 的个人博客，与你一起发现更大的世界。"
+description: "这里是 @Deecyn 的个人博客，与你一起探索 Java 及更大的世界。"
 keyword: "wangde.xin, Deecyn, Deecyn的博客, Deecyn's Blog, Deecyn Blog, Web, Java, Spring"
 url: "https://wangde.xin"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
@@ -80,7 +80,7 @@ ga_domain: wangde.xin
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "且将新火试新茶，诗酒趁年华"
+sidebar-about-description: "我干了什么？究竟拿了时间换了什么，拿了什么换了时间？"
 sidebar-avatar: /img/avatar-deecyn.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
