@@ -79,7 +79,7 @@ npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.11 install: `node-g
 npm WARN optional SKIPPING OPTIONAL DEPENDENCY: Exit status 1
 ```
 
-**解决方法：** 仍然是权限不够的问题，在安装命令后面加上参数 ` --unsafe-perm` 即可。
+**解决方法：** 仍然是权限不够的问题，在安装命令后面加上参数 `--unsafe-perm` 即可。
 
 - 参考链接：[root权限NPM全局安装(-g)仍会权限不够，认识下参数 --unsafe-perm](https://www.cnblogs.com/ganiks/p/stack-error-eacces-denied-node-gyp.html)
 
@@ -119,13 +119,13 @@ npm WARN optional SKIPPING OPTIONAL DEPENDENCY: Exit status 1
 
 **解决方法：** 需要安装 XCode 命令行工具（XCode Command Line Tools）：
 
-```
+```sh
 xcode-select --install
 ```
 
 若提示已安装，则需要删除原有的：
 
-```
+```shell
 sudo rm -rf /Library/Developer/CommandLineTools
 
 # 或：sudo rm -rf $(xcode-select -print-path)
