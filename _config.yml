@@ -4,8 +4,8 @@ SEOTitle: Deecyn 的博客 | Deecyn's Blog
 header-img: img/bg/home-bg.jpg
 email: deecyns@gmail.com
 description: "这里是 @Deecyn 的个人博客，与你一起探索 Java 及更大的世界。"
-keyword: "wangde.xin, Deecyn, Deecyn的博客, Deecyn's Blog, Deecyn Blog, Web, Java, Spring"
-url: "https://wangde.xin"              # your host, for absolute URL
+keyword: "deecyn.com, Deecyn, Deecyn的博客, Deecyn's Blog, Deecyn Blog, Web, Java, Spring"
+url: "https://deecyn.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -70,11 +70,11 @@ netease_comment: false
 
 # Analytics settings
 # Baidu Analytics 
-ba_track_id: cd3e1c0e417f1ed09945670804301de4
+ba_track_id: f4f0555a951699ca1a4dbfa8e888a958
 
 # Google Analytics
-ga_track_id: 'UA-150872755-1'            # Format: UA-xxxxxx-xx
-ga_domain: wangde.xin
+ga_track_id: 'UA-158080878-1'            # Format: UA-xxxxxx-xx
+ga_domain: deecyn.com
 
 
 
