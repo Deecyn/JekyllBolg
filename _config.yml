@@ -80,7 +80,7 @@ ga_domain: deecyn.com
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "我干了什么？究竟拿了时间换了什么，拿了什么换了时间？"
+sidebar-about-description: "我干了什么，究竟拿了时间换了什么？"
 sidebar-avatar: /img/avatar-deecyn.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
